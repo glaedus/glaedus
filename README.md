@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Sentinel (SIEM) Map out Live Cyber Attacks](https://github.com/glaedus/azure-sentinel)
-- [Vulnerability Management with Nessus] (in progress)
 
 <h2>📄 Certifications</h2>
 
